@@ -22,3 +22,8 @@ https://drive.google.com/file/d/1zP0yadPWCZnx7RHiCXFSBS25sKxuE5vM/view?usp=shari
 Below is a use case diagram for a booking system:
 
 ![Booking System Use Case Diagram](alx-booking-uc.png)
+requirement-analysis/
+│
+├── README.md
+├── alx-booking-uc.png
+└── alx-booking-uc.drawio.xml (optional)
